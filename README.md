@@ -29,7 +29,7 @@ Using a process akin to frequency chaos game representation, books (in txt forma
 * Lastly, images are normalized to 0-255 grayscale and saved.
 
 <p align="center">
-  <img width="1795" height="1852" src="https://github.com/mmarchetti90/author_predictor/blob/main/data/book_images_example.png">
+  <img src="https://github.com/mmarchetti90/author_predictor/blob/main/data/book_images_example.png">
 </p>
 
 ### Residual Convolutional Neural Network:
@@ -47,7 +47,7 @@ Using a process akin to frequency chaos game representation, books (in txt forma
 * Example of training/validation loss:
 
 <p align="center">
-  <img width="1229" height="469" src="https://github.com/mmarchetti90/author_predictor/blob/main/data/model_loss.png">
+  <img src="https://github.com/mmarchetti90/author_predictor/blob/main/data/model_loss.png">
 </p>
 
 * Resulting testing accuracy was 98.66%.
